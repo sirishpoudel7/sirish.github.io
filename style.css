@@ -14,12 +14,12 @@ header h1 {
 }
 
 header {
-    padding: 10px;
-    background-color: #707070;
+    padding: 40px;
+    background-color:dimgray
 }
 
 nav {
-    background-color: #333;
+    background-color:black;
     overflow: hidden;
 }
 
@@ -32,6 +32,7 @@ nav a {
 }
 
 main {
+    background-color: white;
     text-align: center;
 }
 
